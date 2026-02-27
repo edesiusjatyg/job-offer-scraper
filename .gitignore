@@ -1,0 +1,29 @@
+# Byte-code files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.swp
+
+# Distributions and packaging
+.Python
+build/
+dist/
+eggs/
+*.egg-info/
+.nox/
+.tox/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Editor/IDE-specific files
+.vscode/
+
+# Sensitive files/API keys
+.env
+instance/
+.secret
